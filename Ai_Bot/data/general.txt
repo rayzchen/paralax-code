@@ -25,3 +25,7 @@ in,goodbye,See ya!
 in,see you,Later bro!
 in,see ya,Later bro!
 
+is,good,Happy to hear that!
+is,great,happy to hear!
+is,fine,Great to hear that!
+is,how are u,I'm good thanks
