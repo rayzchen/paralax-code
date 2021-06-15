@@ -25,3 +25,15 @@ in,goodbye,See ya!
 in,see you,Later bro!
 in,see ya,Later bro!
 
+is,good,Happy to hear that!
+is,great,happy to hear!
+is,fine,Great to hear that!
+is,how are u,I'm good thanks
+in,I am fine,Glad to hear that!
+in,who are you,I am the 500 response AI :)
+in,good morning,Good morning!
+in,good night,good night
+in,good evening,good evening!
+in,good afternoon,good afternoon!
+in,hmm,.......
+

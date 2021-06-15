@@ -1,2 +1,4 @@
 in,my name,Veresh
 in,president of china,Xi Jinping
+in,you like anime?,ofc it's the greatest thing i have ever seen
+

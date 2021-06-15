@@ -8,3 +8,4 @@ is,do you like burger king,Its alright ig
 is,do you like nando's,Never had it before
 is,is fast food healthy,NO definitely not
 is,what kinds of food are healthy,Fruit and veg (you need your 5 a day)
+in,whats ur fav food?,hmm, I am a chatbot so i am not sure about that
